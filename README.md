@@ -10,7 +10,7 @@
  
 # Form
 
-```{
+`{
   "version": "1.4.1",
   "important-warning": "Everything must use https:// or Faliactyl will fail to start properly",
   "defaulttheme": "tinydash",
@@ -20,10 +20,10 @@
     "port": 8080,
     "warning": "To run Faliactyl on a domain, you need to setup a reverse proxy, the guide is on our GitHub",
     "secret": "Example Secret"
-  },```
+  },
 
 # To
-```{
+`{
   "version": "1.4.1",
   "important-warning": "Everything must use https:// or Faliactyl will fail to start properly",
   "defaulttheme": "Dark",
@@ -33,7 +33,7 @@
     "port": 8080,
     "warning": "To run Faliactyl on a domain, you need to setup a reverse proxy, the guide is on our GitHub",
     "secret": "Example Secret"
-  },```
+  },
 
 # done! you have installed and activated the theme.
 
