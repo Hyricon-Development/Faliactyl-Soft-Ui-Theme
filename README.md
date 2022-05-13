@@ -20,7 +20,7 @@
     "port": 8080,
     "warning": "To run Faliactyl on a domain, you need to setup a reverse proxy, the guide is on our GitHub",
     "secret": "Example Secret"
-  },
+  },`
 
 # To
 `{
@@ -33,7 +33,7 @@
     "port": 8080,
     "warning": "To run Faliactyl on a domain, you need to setup a reverse proxy, the guide is on our GitHub",
     "secret": "Example Secret"
-  },
+  },`
 
 # done! you have installed and activated the theme.
 
