@@ -56,13 +56,13 @@
         "footerad": true,
         "faviconlink": "https://cdn.discordapp.com/attachments/824735967839649822/846476000908017764/LogoMakr-6nVzHp.png",
         "home": {
-            "title": "dashactyl - Home",
-            "name": "dashactyl",
-            "topmsg": "dashactyl",
-            "bottommsg": "dashactyl-",
+            "title": "Faliactyl - Home",
+            "name": "Faliactyl",
+            "topmsg": "Faliactyl",
+            "bottommsg": "Faliactyl-",
             "buttontext": {
                 "loggedin": {
-                    "text": "Dashboard",
+                    "text": "Faliactyl",
                     "link": "/dashboard"
                 },
                 "loggedout": {
@@ -72,25 +72,25 @@
             }
         },
         "dashboard": {
-            "title": "dashactyl - Dashboard"
+            "title": "Faliactyl - Dashboard"
         },
         "servers": {
             "title": {
-                "list": "dashactyl - Servers",
-                "create": "dashactyl - Create Server",
-                "modify": "dashactyl - Modify Server"
+                "list": "Faliactyl - Servers",
+                "create": "Faliactyl - Create Server",
+                "modify": "Faliactyl - Modify Server"
             }
         },
         "error": {
-            "title": "dashactyl - 404"
+            "title": "Faliactyl - 404"
         },
         "admin": {
             "title": {
-                "default": "dashactyl - Admin"
+                "default": "Faliactyl - Admin"
             }
         },
         "store": {
-            "title": "dashactyl - Store"
+            "title": "Faliactyl - Store"
         }
     }
 }
