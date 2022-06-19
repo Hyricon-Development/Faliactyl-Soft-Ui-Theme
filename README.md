@@ -10,7 +10,8 @@
  
 # Form
 
-```{
+```json
+{
   "version": "1.4.1",
   "important-warning": "Everything must use https:// or Faliactyl will fail to start properly",
   "defaulttheme": "tinydash",
@@ -25,7 +26,8 @@
 
 # To
 
-```{
+```json
+{
   "version": "1.4.1",
   "important-warning": "Everything must use https:// or Faliactyl will fail to start properly",
   "defaulttheme": "Dark",
@@ -38,5 +40,5 @@
   },
 ```
 
-# done! you have installed and activated the theme.
+# Done! you have installed and activated the theme.
 
